@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b9f4510-f49f-4338-b32d-f42dfbeba793" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.circleci/config.yml" afterPath="$PROJECT_DIR$/.circleci/config.yml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
@@ -414,7 +413,7 @@
       <option name="presentableId" value="Default" />
       <updated>1529169227533</updated>
       <workItem from="1529169228921" duration="2368000" />
-      <workItem from="1529177818315" duration="731000" />
+      <workItem from="1529177818315" duration="806000" />
     </task>
     <task id="LOCAL-00001" summary="Added CircleCI config file.">
       <created>1529178200412</created>
@@ -423,7 +422,14 @@
       <option name="project" value="LOCAL" />
       <updated>1529178200412</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added extended CircleCI Pipeline.">
+      <created>1529178584140</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1529178584140</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -459,7 +465,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3182000" />
+    <option name="totallyTimeSpent" value="3257000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -504,7 +510,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added CircleCI config file." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added CircleCI config file." />
+    <MESSAGE value="Added extended CircleCI Pipeline." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added extended CircleCI Pipeline." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
