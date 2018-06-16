@@ -1,12 +1,11 @@
 package pl.mcpm.mvnapp;
 
-import org.junit.Before;
 import org.junit.BeforeClass;
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
 
-public class CalculatorTests {
+public class CalculatorTest {
     static private Calculator calculator;
 
     @BeforeClass
@@ -26,7 +25,7 @@ public class CalculatorTests {
     public void test_add_wrong() {
         int a = 6;
         int b = 10;
-        assertEquals(15, calculator.add(a, b));
+        assertEquals(16, calculator.add(a, b));
     }
 
 }
